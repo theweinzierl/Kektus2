@@ -1,4 +1,4 @@
-(logo.png)
+![brandlogo](logo.png)
 
 # Kektus2 - Wo-Rona-App
 Die Prüfungsleistung des Teams Ketkus2 zur Vorlesung Software Engineering im WS 20/21 an der DHBW Mannheim.
