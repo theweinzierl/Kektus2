@@ -16,3 +16,4 @@ Der Aufbau des Repositories gliedert sich in die Ordner Abgabe 1 und Abgabe 2. D
 ## Abgabe 2 - 21.12.2020
 **Inhalt**
 - [Requirements-Engineering](/Abgabe_02/00_Requirements-Engineering.pdf)
+- [Ergebnispräsentation vom 21.12.2020](/Abgabe_02/Präsentation_Abgabe_02.pptx)
